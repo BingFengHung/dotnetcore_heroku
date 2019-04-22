@@ -12076,11 +12076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User X\\Desktop\\core\\DotNetWebApi\\DotNetWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\User X\\Desktop\\dotnetcore_heroku\\DotNetWebApi\\DotNetWebApi.csproj",
       "projectName": "DotNetWebApi",
-      "projectPath": "C:\\Users\\User X\\Desktop\\core\\DotNetWebApi\\DotNetWebApi.csproj",
+      "projectPath": "C:\\Users\\User X\\Desktop\\dotnetcore_heroku\\DotNetWebApi\\DotNetWebApi.csproj",
       "packagesPath": "C:\\Users\\User X\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User X\\Desktop\\core\\DotNetWebApi\\obj\\",
+      "outputPath": "C:\\Users\\User X\\Desktop\\dotnetcore_heroku\\DotNetWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
