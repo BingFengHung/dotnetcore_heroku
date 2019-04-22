@@ -13,7 +13,7 @@ export default class AboutComponent extends Vue {
   @Prop() private msg!: string;
   mounted() {
       alert('in');
-      Vue.axios.get("https://dotnetcorehero.herokuapp.com/api/values").then((response) => {
+      Vue.axios.get("/api/values").then((response) => {
           alert(JSON.stringify(response));
       });
   }
